@@ -1,7 +1,7 @@
 ![](images/title.png)
-![](images/start.png)
+   ![](images/start.png)
 <br>
-## The objective of the game is to connect your pipe to the end pipe and open the valve. 
+##@ The objective of the game is to connect your pipe to the end pipe and open the valve. 
 Each player will take turns consisting of one of the following options:
 1. Place a Tile
 2. Rotate a Tile
