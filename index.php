@@ -1,5 +1,4 @@
 <?php
-
 require __DIR__ . '/lib/steampunked.inc.php';
 ?>
 
@@ -54,7 +53,7 @@ require __DIR__ . '/lib/steampunked.inc.php';
       the game. Otherwise, you lose.
       <br/>
       <br/>
-      
+
       Give Up: You lose.
       <br/>
       <br/>
