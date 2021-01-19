@@ -1,5 +1,5 @@
 ![](images/title.png)
-______![](images/start.png)______
+![](images/start.png)
 <br>
 ### The objective of the game is to connect your pipe to the end pipe and open the valve. <br>
 Each player will take turns consisting of one of the following options:
@@ -18,3 +18,5 @@ Each player will take turns consisting of one of the following options:
 **Open Valve:** Opening the valve will check your pipes to see if it is connected to the end pipe and without leaks. If you have done so, you win the game. Otherwise, you lose.
 
 **Give Up:** You lose.
+
+## Play the Game:  https://ankitluthra.github.io/Steampunked
