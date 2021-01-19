@@ -1,0 +1,145 @@
+figure {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.align-center {
+   text-align: center;
+}
+
+.buttons {
+    display: inline;
+    margin: 20px;
+}
+
+.pipeOption {
+    display: inline;
+    margin: 3px;
+}
+
+.message {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
+
+div.game {
+    display: inline-block;
+    margin: 1em auto;
+    border: thin solid black;
+    padding: 1em 0;
+    margin-bottom: 20px;
+}
+
+div.game div.row {
+    display: block;
+    padding: 0;
+    height: 50px;
+    white-space: nowrap;
+}
+
+div.game div.cell {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    min-height: 50px;
+    min-width: 50px;
+}
+
+div.cell input {
+    border: 0;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    text-indent: -999px;
+    font-size: 0;
+    line-height: 0;
+    display: block;
+}
+
+.cap-e {
+    background-image: url("images/cap-e.png");
+}
+.cap-n {
+    background-image: url("images/cap-n.png");
+}
+.cap-s {
+    background-image: url("images/cap-s.png");
+}
+.cap-w {
+    background-image: url("images/cap-w.png");
+}
+
+.gauge-0 {
+    background-image: url("images/gauge-0.png");
+}
+.gauge-190 {
+    background-image: url("images/gauge-190.png");
+}
+.gauge-top-0 {
+    background-image: url("images/gauge-top-0.png");
+}
+.gauge-top-190 {
+    background-image: url("images/gauge-top-190.png");
+}
+
+.leak-e {
+    background-image: url("images/leak-e.png");
+}
+.leak-n {
+    background-image: url("images/leak-n.png");
+}
+.leak-s {
+    background-image: url("images/leak-s.png");
+}
+.leak-w {
+    background-image: url("images/leak-w.png");
+}
+
+.ninety-es {
+    background-image: url("images/ninety-es.png");
+}
+.ninety-ne {
+    background-image: url("images/ninety-ne.png");
+}
+.ninety-sw {
+    background-image: url("images/ninety-sw.png");
+}
+.ninety-wn {
+    background-image: url("images/ninety-wn.png");
+}
+
+.straight-h {
+    background-image: url("images/straight-h.png");
+}
+.straight-v {
+    background-image: url("images/straight-v.png");
+}
+
+.tee-esw {
+    background-image: url("images/tee-esw.png");
+}
+.tee-nes {
+    background-image: url("images/tee-nes.png");
+}
+.tee-swn {
+    background-image: url("images/tee-swn.png");
+}
+.tee-wne {
+    background-image: url("images/tee-wne.png");
+}
+
+.valve-closed {
+    background-image: url("images/valve-closed.png");
+}
+.valve-open {
+    background-image: url("images/valve-open.png");
+}
+
+.hover-leak:hover {
+    background-color: #BBFF9E;
+}
